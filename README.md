@@ -18,5 +18,5 @@ So far, I have:
 
 
 
-\-A Jupyter Notebook in-progress, for my main analysis -> "Public Works Survey Analysis.ipynb"
+\-A finished Jupyter Notebook, for my main analysis -> "Public Works Survey Analysis.ipynb"
 
