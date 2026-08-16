@@ -18,5 +18,5 @@ So far, I have:
 
 
 
-\-A finished Jupyter Notebook, for my main analysis -> "Public Works Survey Analysis.ipynb"
+\-A Jupyter Notebook, for my main analysis -> "Public Works Survey Analysis.ipynb"
 
