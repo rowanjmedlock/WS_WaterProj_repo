@@ -1,4 +1,4 @@
-V2 (8-5-26)
+V2.5 (8-16-26)
 
 
 
@@ -10,7 +10,7 @@ So far, I have:
 
 
 
-\-A presentation I will be giving in council, within the month of August 2026 -> "Presentation to city council (7-13-26).pptx"
+\-A presentation I will be giving in council, within the month of August 2026 -> "Presentation to city council (8-13-26).pptx"
 
 
 
